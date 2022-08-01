@@ -13,14 +13,15 @@ body{
     text-align: center;
     color:blue;
 }
+h2{
+    text-align: center;
+    color:blue;
+}
 img{
     
     border-radius: 15px 50px;
 }
-img{
-   
-    border-radius: 15px 50px;
-}
+
 div{  
     border: 2px solid black;
     display: block;
